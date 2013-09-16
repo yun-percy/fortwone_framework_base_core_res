@@ -1,0 +1,8 @@
+#
+# system.prop for oppo find5
+#
+ro.product.locale.language=zh
+ro.product.locale.region=CN
+persist.sys.timezone=Asia/Shanghai
+persist.sys.language=zh
+persist.sys.country=CN
